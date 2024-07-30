@@ -1,0 +1,25 @@
+#presentacion{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+
+
+.proyecto
+{
+
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#proyecto-1{
+    background-image: url(https://img.freepik.com/vector-gratis/ilustracion-icono-vector-dibujos-animados-hueso-mordedura-perro-pug-lindo-naturaleza-animal-icono-concepto-aislado-premium_138676-7370.jpg?size=338&ext=jpg)
+}
+
+
+.text-shadow-1 {
+    text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
+}
+
+/**/
