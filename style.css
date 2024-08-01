@@ -2,24 +2,46 @@
     display: flex;
     justify-content: start;
     align-items: center;
+    background-image: url(assets/fondo1.jpg);
+    /*https://getwallpapers.com/wallpaper/full/c/2/9/427062.jpg
+    https://images.unsplash.com/photo-1511512578047-dfb367046420?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FtaW5nJTIwd2FsbHBhcGVyc3xlbnwwfHwwfHx8MA%3D%3D
+
+
+
+    https://images.unsplash.com/photo-1511512578047-dfb367046420?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FtaW5nJTIwd2FsbHBhcGVyc3xlbnwwfHwwfHx8MA%3D%3D
+    */
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
 }
 
 
 
 .proyecto
 {
-
+   background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #proyecto-1{
-    background-image: url(https://img.freepik.com/vector-gratis/ilustracion-icono-vector-dibujos-animados-hueso-mordedura-perro-pug-lindo-naturaleza-animal-icono-concepto-aislado-premium_138676-7370.jpg?size=338&ext=jpg)
+    background-image: url(assets/clonGoogle.PNG)
+}
+
+#proyecto-2{
+    background-image: url(assets/clonGoogle.PNG)
 }
 
 
 .text-shadow-1 {
     text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
+}
+
+
+.texto-gigante{
+    font-size: 80px;
 }
 
 /**/
