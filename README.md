@@ -9,7 +9,6 @@ utilizando además bibliotecas externas.
 La página es reponsiva (adabtable a diferentes tamaños de pantalla) e incluye la 
 presentación de la autora del proyecto.
 
-[Proyecto desplegado ()]
 
 
 ## Secciones de mi sitio 
