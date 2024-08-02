@@ -39,4 +39,4 @@ presentación de la autora del proyecto.
 * Javascript
 ---
 
-Desarrollado con  💜 por [Jimena](https://ephemeral-begonia-57ac43.netlify.app/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
+Desarrollado con  💜 por [Jimena](https://ephemeral-begonia-57ac43.netlify.app/) https://ephemeral-begonia-57ac43.netlify.app/ en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
