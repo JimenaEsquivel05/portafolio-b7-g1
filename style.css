@@ -1,45 +1,33 @@
-#presentacion{
+#presentacion {
     display: flex;
     justify-content: start;
     align-items: center;
     background-image: url(assets/fondo1.jpg);
-    /*https://getwallpapers.com/wallpaper/full/c/2/9/427062.jpg
-    https://images.unsplash.com/photo-1511512578047-dfb367046420?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FtaW5nJTIwd2FsbHBhcGVyc3xlbnwwfHwwfHx8MA%3D%3D
-
-
-
-    https://images.unsplash.com/photo-1511512578047-dfb367046420?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FtaW5nJTIwd2FsbHBhcGVyc3xlbnwwfHwwfHx8MA%3D%3D
-    */
-    
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 
 }
 
-
 .press-start-2p-regular {
-  font-family: "Press Start 2P", system-ui;
-  font-weight: 400;
-  font-style: normal;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size:40px;
 }
 
-
-
-
-.proyecto
-{
-   background-size: cover;
+.proyecto {
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
-#proyecto-1{
+#proyecto-1 {
     background-image: url(assets/clonGoogle.PNG)
 }
 
-#proyecto-2{
-    background-image: url(assets/clonGoogle.PNG)
+#proyecto-2 {
+    background-image: url(assets/robotic.png)
 }
 
 
@@ -48,8 +36,46 @@
 }
 
 
-.texto-gigante{
+.texto-gigante {
     font-size: 80px;
 }
 
-/**/
+
+
+#typingText {
+    white-space: nowrap; /* Evita que el texto se rompa en varias líneas */
+}
+
+#typingText::after {
+    content: '|';
+    animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+.carousel-item img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover; 
+   
+}
+
+
+.carousel-item p {
+    text-align: center; 
+    max-width: 500px;
+    margin: 0 auto; 
+}
+
+
+
+
+footer {
+    text-align: center;
+    padding: 0.5rem; 
+    
+  
+}
