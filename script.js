@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     const textElement = document.getElementById('typingText');
-    const textToType = "Jimena Esquivel";
+    const textToType = "Jimena";
     let index = 0;
     let isDeleting = false;
 
